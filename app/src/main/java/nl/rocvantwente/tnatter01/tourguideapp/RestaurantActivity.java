@@ -3,11 +3,11 @@ package nl.rocvantwente.tnatter01.tourguideapp;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class ColorsActivity extends AppCompatActivity {
+public class RestaurantActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_colors);
+        setContentView(R.layout.activity_restaurant);
     }
 }
