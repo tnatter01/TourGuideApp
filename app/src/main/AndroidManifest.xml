@@ -9,11 +9,21 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".SportActivity"></activity>
-        <activity android:name=".AttractieActivity" />
-        <activity android:name=".GebeurtenissenActivity" />
-        <activity android:name=".RestaurantActivity" />
-        <activity android:name=".MainActivity">
+        <activity
+            android:name=".SportActivity"
+            android:label="Sporten">
+        </activity>
+        <activity
+            android:name=".AttractieActivity"
+            android:label="Attracties" />
+        <activity
+            android:name=".GebeurtenissenActivity"
+            android:label="Gebeurtenissen" />
+        <activity
+            android:name=".RestaurantActivity"
+        android:label="Restaurants" />
+        <activity android:name=".MainActivity"
+            android:label="Haaksbergen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
