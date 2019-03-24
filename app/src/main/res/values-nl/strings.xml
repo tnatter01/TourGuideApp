@@ -1,36 +1,22 @@
-<!-- Copyright (C) 2016 The Android Open Source Project
-
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-
-          http://www.apache.org/licenses/LICENSE-2.0
-
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Tour Guide</string>
+    <string name="monstertruck_title" translatable="false">Monstertruckdrama</string>
     <string name="category_restaurant">Restaurants</string>
     <string name="category_attractie">Attracties</string>
     <string name="category_gebeurtenissen">Gebeurtenissen</string>
     <string name="category_sport">Sporten</string>
-    <string name="monstertruck_title">Monster truck accident</string>
     <string name="escaperoom">Escaperoom</string>
-    <string name="monstertruck_desc">The Haaksbergen monster truck accident happened on 28 September 2014 in Haaksbergen, the Netherlands, when a monster truck crashed into the attending crowd. Three visitors were reported dead, amongst them one child. According to Hans Gerritsen, the mayor of Haaksbergen, twelve people were injured.</string>
     <string name="escaperoom_desc">Ben je een teamspeler en heb je voor elk probleem wel een oplossing? Kom dan naar de escaperoom in Haaksbergen en verbreek de Vloek van Hof te Langelo.</string>
     <string name="blanckenborgh_title">Restaurant De Blanckenborgh</string>
     <string name="blanckenborgh_desc">In zowel het klassieke, met linnen gedekte restaurant, in de hippe kitchenbar als op het mooie parkachtige terras kunt u genieten van alles wat De Blanckenborgh u te bieden heeft.</string>
-    <string name="hsc_title">HSC \'21</string>
     <string name="hsc_desc">HSC’21 is een club waar plezier, prestatie en professionaliteit belangrijk zijn. Het eerste elftal wil attractief voetbal op topamateurniveau spelen, met zoveel mogelijk een mix van spelers uit eigen gelederen en de regio, zodat voor zowel (potentiële) spelers, vrijwilligers, publiek en sponsoren de club in Haaksbergen en omstreken een grote aantrekkingskracht heeft.</string>
+    <string name="hsc_title">HSC \'21</string>
     <string name="bonboys_title">Bon Boys</string>
     <string name="bonboys_desc">SV Bon Boys Haaksbergen is opgericht op 22 februari 1934. Dit gebeurde nagenoeg gelijktijdig met de stichting van de parochie HH Bonifatius en Gezellen in de destijds nog niet aan Haaksbergen vastgegroeide wijk Veldmaat. De eerste naam was dan ook RKSV Bonifatius Boys. Medio de jaren ’90 werd de voorvoeging ‘rk’ definitief losgelaten en werd de vereniging officieel ‘algemeen’.</string>
     <string name="elcharro_title">El Charro</string>
     <string name="elcharro_desc">El Charro is een Mexicaans Zuid-Amerikaans restaurant in het centrum van Losser waar je kunt genieten van heerlijke traditionele gerechten met vlees, vis of vegetarisch. Wij zorgen voor een gezellige avond met heerlijke gerechten.</string>
     <string name="buurserzand_desc">Bij de naam Buurserzand verwacht je misschien een droog en kaal gebied. In werkelijkheid ligt hier een opvallend natte heide met vennetjes. De afwisseling van heide, stukjes bos bos, kleine akkers en stuifzandheuveltjes maakt dit tot een geliefd wandelgebied.</string>
     <string name="buurserzand_title">Buurserzand</string>
-
+    <string name="monstertruck_desc">Het monstertruckdrama gebeurrde op 28 september 2014 in Haaksbergen toen een monstertruck in het publiek crashte. Drie mensen overleden en 12 mensen raakten zwaargewond.</string>
 </resources>
